@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ExplorandoPropriedades": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
